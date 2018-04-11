@@ -1,4 +1,4 @@
 module.exports = {
-    TOKEN: '428158572:AAEHGKWdzG42IT2yC9ib30oNQNSVMNJX1LI',
+    TOKEN: '307448675:AAHhdml8eMOxw8E4KqzhhKYCNoXrXbfLJIs',
     DB_URL: 'mongodb://localhost:27017/hyipchat'
 }
